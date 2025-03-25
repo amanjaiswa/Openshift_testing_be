@@ -1,0 +1,101 @@
+"11348- 23684-2025-03-25 10:59:56,914 - INFO - Watching for file changes with StatReloader
+"11348- 23684-2025-03-25 11:00:48,079 - INFO - C:\Users\B0299331\Desktop\Aman Backend\amanpro\amanapp\admin.py changed, reloading.
+"17092- 14504-2025-03-25 11:00:49,026 - INFO - Watching for file changes with StatReloader
+"13456- 1564-2025-03-25 11:02:51,504 - INFO - Watching for file changes with StatReloader
+"12828- 22928-2025-03-25 11:06:46,034 - INFO - Watching for file changes with StatReloader
+"12828- 4268-2025-03-25 11:06:46,599 - WARNING - Not Found: /
+"12828- 4268-2025-03-25 11:06:46,739 - WARNING - Not Found: /favicon.ico
+"12828- 4268-2025-03-25 11:07:03,703 - WARNING - Not Found: /
+"12828- 4268-2025-03-25 11:07:12,464 - WARNING - Not Found: /amanapp
+"2240- 19348-2025-03-25 11:09:46,573 - INFO - Watching for file changes with StatReloader
+"2240- 21568-2025-03-25 11:10:06,947 - WARNING - Not Found: /
+"2240- 22976-2025-03-25 11:11:06,810 - WARNING - Not Found: /
+"2240- 22976-2025-03-25 11:11:17,395 - WARNING - Not Found: /amanapp
+"2240- 22976-2025-03-25 11:11:37,259 - WARNING - Not Found: /amanapp/
+"2240- 19348-2025-03-25 11:11:49,791 - INFO - C:\Users\B0299331\Desktop\Aman Backend\amanpro\amanpro\urls.py changed, reloading.
+"1384- 22844-2025-03-25 11:11:50,610 - INFO - Watching for file changes with StatReloader
+"1384- 21936-2025-03-25 11:11:55,747 - WARNING - Not Found: /amanapp/
+"1384- 21936-2025-03-25 11:11:58,982 - WARNING - Not Found: /amanapp/
+"1384- 21936-2025-03-25 11:12:03,310 - WARNING - Not Found: /amanapp
+"1384- 21936-2025-03-25 11:12:20,239 - WARNING - Not Found: /amanapp
+"1384- 21936-2025-03-25 11:12:20,610 - WARNING - Not Found: /amanapp
+"1384- 21936-2025-03-25 11:12:35,779 - WARNING - Not Found: /amanapp/reg
+"1384- 21936-2025-03-25 11:12:46,503 - ERROR - Internal Server Error: /amanapp/registerdetails/
+Traceback (most recent call last):
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\rest_framework\renderers.py", line 722, in render
+    template = loader.get_template(self.template)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+"1384- 21936-2025-03-25 11:12:56,791 - ERROR - Internal Server Error: /amanapp/registerdetails/
+Traceback (most recent call last):
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\rest_framework\renderers.py", line 722, in render
+    template = loader.get_template(self.template)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+"2160- 19976-2025-03-25 11:13:39,265 - INFO - Watching for file changes with StatReloader
+"2160- 12364-2025-03-25 11:13:47,635 - ERROR - Internal Server Error: /amanapp/registerdetails/
+Traceback (most recent call last):
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\rest_framework\response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\rest_framework\renderers.py", line 722, in render
+    template = loader.get_template(self.template)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\B0299331\AppData\Roaming\Python\Python312\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+"2160- 19976-2025-03-25 11:14:08,906 - INFO - C:\Users\B0299331\Desktop\Aman Backend\amanpro\amanapp\views.py changed, reloading.
+"17564- 25360-2025-03-25 11:14:09,805 - INFO - Watching for file changes with StatReloader
+"21748- 18152-2025-03-25 11:19:55,915 - INFO - Watching for file changes with StatReloader
+"24876- 17476-2025-03-25 11:20:49,995 - INFO - Watching for file changes with StatReloader
+"24876- 22092-2025-03-25 11:21:04,613 - WARNING - Not Found: /
+"24876- 22092-2025-03-25 11:21:04,710 - WARNING - Not Found: /favicon.ico
+"24876- 22092-2025-03-25 11:21:11,709 - WARNING - Not Found: /amanapp
+"24876- 22092-2025-03-25 11:21:17,500 - WARNING - Not Found: /amanapp/
+"24876- 22092-2025-03-25 11:21:28,339 - WARNING - Method Not Allowed: /amanapp/registerdetails/
+"24876- 2548-2025-03-25 11:23:22,449 - ERROR - Internal Server Error: /amanapp/registerdetails/
+"24876- 2548-2025-03-25 11:23:55,280 - INFO - data recieved is {'company': 'Airtel'}
+"7452- 6444-2025-03-25 11:24:41,313 - INFO - Watching for file changes with StatReloader
+"7452- 15192-2025-03-25 11:24:43,142 - WARNING - Method Not Allowed: /amanapp/registerdetails/
+"7452- 13184-2025-03-25 11:25:11,947 - WARNING - Method Not Allowed: /amanapp/registerdetails/
+"7452- 13184-2025-03-25 11:25:13,403 - WARNING - Method Not Allowed: /amanapp/registerdetails/
+"7452- 1344-2025-03-25 11:25:37,600 - WARNING - Forbidden (CSRF token from POST incorrect.): /admin/login/
+"2092- 2700-2025-03-25 11:26:06,945 - INFO - Watching for file changes with StatReloader
+"2092- 3304-2025-03-25 11:26:27,928 - WARNING - Not Found: /
