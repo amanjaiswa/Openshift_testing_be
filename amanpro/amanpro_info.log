@@ -99,3 +99,19 @@ django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
 "7452- 1344-2025-03-25 11:25:37,600 - WARNING - Forbidden (CSRF token from POST incorrect.): /admin/login/
 "2092- 2700-2025-03-25 11:26:06,945 - INFO - Watching for file changes with StatReloader
 "2092- 3304-2025-03-25 11:26:27,928 - WARNING - Not Found: /
+"22388- 23144-2025-03-25 12:23:22,043 - INFO - Watching for file changes with StatReloader
+"23012- 21384-2025-03-25 12:23:40,260 - INFO - Watching for file changes with StatReloader
+"1788- 22860-2025-03-25 12:26:52,327 - INFO - Watching for file changes with StatReloader
+"8376- 22400-2025-03-25 12:27:19,250 - INFO - Watching for file changes with StatReloader
+"8376- 17772-2025-03-25 12:27:34,784 - WARNING - Not Found: /
+"8376- 17772-2025-03-25 12:27:35,114 - WARNING - Not Found: /favicon.ico
+"8376- 12324-2025-03-25 12:30:34,913 - WARNING - Not Found: /
+"8376- 12324-2025-03-25 12:30:46,421 - WARNING - Not Found: /amanapp
+"8376- 12324-2025-03-25 12:30:49,251 - WARNING - Not Found: /amanapp/
+"8376- 24396-2025-03-25 12:31:06,045 - WARNING - Method Not Allowed: /amanapp/registerdetails/
+"8376- 24396-2025-03-25 12:31:36,355 - INFO - data recieved is {'name': 'Aman'}
+"16368- 22664-2025-03-25 12:36:06,580 - INFO - Watching for file changes with StatReloader
+"16368- 16988-2025-03-25 12:36:13,900 - WARNING - Method Not Allowed: /amanapp/registerdetails/
+"12096- 21724-2025-03-25 12:36:42,665 - INFO - Watching for file changes with StatReloader
+"12096- 9148-2025-03-25 12:36:42,917 - WARNING - Method Not Allowed: /amanapp/registerdetails/
+"13132- 21580-2025-03-25 12:37:23,856 - INFO - Watching for file changes with StatReloader
